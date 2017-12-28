@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/modem1.png</file>
+        <file>img/modem2.png</file>
+        <file>img/images.png</file>
+        <file>img/index.jpeg</file>
+        <file>img/1417835-200.png</file>
+        <file>img/btn_donateCC_LG.gif</file>
+        <file>img/help.jpeg</file>
+    </qresource>
+</RCC>
